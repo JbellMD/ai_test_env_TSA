@@ -26,7 +26,7 @@ A comprehensive environment for implementing and testing various time series ana
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ai_test_env_TSA.git
+   git clone https://github.com/JbellMD/ai_test_env_TSA.git
    cd ai_test_env_TSA
 Set up the environment:
 bash
